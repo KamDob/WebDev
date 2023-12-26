@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+}
+.Meme {
+    color: white;
+    text-align: center;
+    font-family: Libre Baskerville, serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+
+}
+
+.Image {
+    width: 100%;
+    border: 5px solid white;
+}
+h1 {
+    font-size:2rem;
+}
